@@ -5,6 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in Germany
+* ✉️  You can contact me at [contact@digitize-development.de](mailto:contact@digitize-development.de)
 
 <a href="https://www.github.com/fabianpy97" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fabianpy97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
